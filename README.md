@@ -33,9 +33,6 @@
 ### [Information Board](https://docs.google.com/document/d/1yLoQgKXXzfdbKkbuD6e3rga_vyXLwhSrFkTaF5aG5oY/edit?usp=sharing)
 
 ### Ranks
-- 1st: Yushan2024
-- 2nd: FRA-UNIted
-- 3rd: Pyrus
 - 1st: CYRUS
 - 2nd: AE TEAM
 - 3rd: FALCON
