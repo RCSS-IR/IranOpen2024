@@ -39,6 +39,8 @@
 - Challenge winner: hexa_opal
 - Best Technical presentation: Stephen
 
+This year, we introduced a new challenge named 'Futsal' which was held for starter teams. You can read more about futsal challenge [here](https://github.com/RCSS-IR/futsal-challenge/).
+
 
 ## Teams
 ### Major League
